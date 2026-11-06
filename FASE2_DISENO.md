@@ -23,3 +23,43 @@ Se utilizará el estándar de **Conventional Commits** para mantener un historia
 - `style:` Realizar cambios en la apariencia del perfil sin modificar su estructura ni su información (ej. `style: reorganiza alineación de badges`).
 
 ---
+
+## 3. Diseño del Contenido por Sección
+
+| Sección | Qué incluir | Qué evitar | Formato visual | Enlaces externos |
+| :--- | :--- | :--- | :--- | :--- |
+| **Presentación** | Nombre, rol (Desarrollador Web), un saludo amigable y una frase personal. | Descripciones demasiado largas o información que no esté relacionada con el área profesional. | Texto destacado y un banner visual centrado. | Ninguno. |
+| **Sobre mí** | Principales intereses en programación, temas que me gusta aprender y metas actuales. | Información personal que no tenga relación con el área tecnológica. | Lista con viñetas para que sea más fácil de leer. | Ninguno. |
+| **Habilidades** | Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo. | Tecnologías que apenas conozco o que no he utilizado lo suficiente. | Insignias (*badges*) con los logos oficiales de cada tecnología. | Ninguno. |
+| **Proyecto** | Nombre, descripción breve, tecnologías utilizadas y enlaces al repositorio y a la página web. | Descripciones demasiado largas o información innecesaria. | Imagen o captura del proyecto y lista de tecnologías. | Enlace al repositorio y a la demostración del proyecto. |
+| **Estadísticas** | Datos que se actualizan automáticamente sobre mi actividad en GitHub. | Datos que deban actualizarse manualmente. | Tarjetas con gráficos e imágenes SVG. | API de estadísticas de GitHub. |
+| **Contacto** | Correo profesional y GitHub. | Número de teléfono personal, dirección física o redes sociales privadas. | Íconos interactivos e insignias de contacto. | Redes profesionales y correo electrónico. |
+
+Se utilizarán íconos, palabras clave en negrita y líneas horizontales (`---`) para separar las secciones y hacer que la información sea más fácil de encontrar.
+
+---
+
+## 4. Ficha Técnica del Proyecto Destacado
+
+**Nombre:** Sitio Web Oficial - Museo Municipal (`MuseoMunicipal_Web`)
+
+**Problema o necesidad:** El proyecto busca mejorar la presencia del Museo Municipal en internet mediante un sitio web donde los usuarios puedan conocer su historia, actividades culturales, exposiciones, horarios y ubicación.
+
+**Tecnologías utilizadas:**
+- HTML (34.4%)
+- CSS (30%)
+- SCSS (28%)
+- JavaScript (7.6%)
+
+**Funcionalidades principales:**
+- Página de inicio con información e imágenes del museo.
+- Sección sobre la historia y el valor cultural del museo.
+- Información sobre actividades y eventos, incluida la obra *Aurora Gloriosa*.
+- Galería de fotografías del museo y sus exposiciones.
+- Información sobre ubicación, horarios de atención y redes sociales.
+
+**Repositorio:** https://github.com/polipopi/MuseoMunicipal_Web
+
+**Demo en línea:** https://polipopi.github.io/MuseoMunicipal_Web/contactos.html
+
+**Estado:** Proyecto desplegado en GitHub Pages y disponible para visitar en internet.
