@@ -28,12 +28,12 @@ Se utilizará el estándar de **Conventional Commits** para mantener un historia
 
 | Sección | Qué incluir | Qué evitar | Formato visual | Enlaces externos |
 | :--- | :--- | :--- | :--- | :--- |
-| **Presentación** | Nombre, rol (Desarrollador Web), un saludo amigable y una frase personal. | Descripciones demasiado largas o información que no esté relacionada con el área profesional. | Texto destacado y un banner visual centrado. | Ninguno. |
-| **Sobre mí** | Principales intereses en programación, temas que me gusta aprender y metas actuales. | Información personal que no tenga relación con el área tecnológica. | Lista con viñetas para que sea más fácil de leer. | Ninguno. |
+| **Presentación** | Nombre, un saludo amigable y una frase personal. | Descripciones demasiado largas o información que no esté relacionada con el área profesional. | Texto destacado. | Ninguno. |
+| **Sobre mí** | Principales intereses en programación, temas que me gusta aprender y metas actuales. | Información personal que no tenga relación con el área tecnológica. | Lista con viñetas para que sea más fácil de leer con emojis decorativos. | Ninguno. |
 | **Habilidades** | Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo. | Tecnologías que apenas conozco o que no he utilizado lo suficiente. | Insignias (*badges*) con los logos oficiales de cada tecnología. | Ninguno. |
 | **Proyecto** | Nombre, descripción breve, tecnologías utilizadas y enlaces al repositorio y a la página web. | Descripciones demasiado largas o información innecesaria. | Imagen o captura del proyecto y lista de tecnologías. | Enlace al repositorio y a la demostración del proyecto. |
-| **Estadísticas** | Datos que se actualizan automáticamente sobre mi actividad en GitHub. | Datos que deban actualizarse manualmente. | Tarjetas con gráficos e imágenes SVG. | API de estadísticas de GitHub. |
-| **Contacto** | Correo profesional y GitHub. | Número de teléfono personal, dirección física o redes sociales privadas. | Íconos interactivos e insignias de contacto. | Redes profesionales y correo electrónico. |
+| **Experiencia y Actividad en GitHub** | Breve descripción de mi experiencia utilizando Git y GitHub, junto con los repositorios en los que he trabajado y los proyectos académicos en los que he colaborado. | Descripciones demasiado largas o proyectos en los que no haya participado. | Imagen del dashboard de GitHub y lista de repositorios organizados por área, con una breve descripción de cada uno. | Ninguno. |
+| **Contacto** | Correo profesional y GitHub. | Número de teléfono personal, dirección física o redes sociales privadas. | Palabras de correo académico y Github en negrita. | Redes profesionales y correo electrónico. |
 
 Se utilizarán íconos, palabras clave en negrita y líneas horizontales (`---`) para separar las secciones y hacer que la información sea más fácil de encontrar.
 
