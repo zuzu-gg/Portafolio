@@ -4,12 +4,12 @@
 
 Para que el perfil sea atractivo, fácil de entender y no tenga demasiada información, el archivo `README.md` estará organizado en las siguientes secciones:
 
-1. **Presentación (Encabezado):** Título con mi nombre y rol principal.
+1. **Presentación (Encabezado):** Título con mi nombre y frase personal.
 2. **Sobre mí:** Breve descripción personal sobre el desarrollo de software y las áreas de interés.
 3. **Habilidades y Tecnologías:** Lista de las herramientas y tecnologías que conozco, organizadas por categorías y representadas mediante insignias (*badges*).
 4. **Proyecto Destacado:** Presentación de un proyecto principal, con información y enlace al repositorio.
-5. **Estadísticas de GitHub:** Tarjetas visuales que muestran información sobre la actividad en GitHub.
-6. **Contacto:** Enlaces directos a redes profesionales y correo electrónico.
+5. **Experiencia en GitHub:** Breve descripción de mi experiencia utilizando Git y GitHub con una iamgen de mi historial.
+6. **Contacto:** Enlaces directo a mi GitHub y correo electrónico académico.
 
 ---
 
