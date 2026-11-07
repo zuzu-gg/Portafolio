@@ -5,7 +5,7 @@
 Para que el perfil sea atractivo, fácil de entender y no tenga demasiada información, el archivo `README.md` estará organizado en las siguientes secciones:
 
 1. **Presentación (Encabezado):** Título con mi nombre y frase personal.
-2. **Sobre mí:** Breve descripción personal sobre el desarrollo de software y las áreas de interés.
+2. **Sobre mí:** Breve descripción personal sobre el desarrollo de software, las áreas de interés y la carrera que estudio.
 3. **Habilidades y Tecnologías:** Lista de las herramientas y tecnologías que conozco, organizadas por categorías y representadas mediante insignias (*badges*).
 4. **Proyecto Destacado:** Presentación de un proyecto principal, con información y enlace al repositorio.
 5. **Experiencia en GitHub:** Breve descripción de mi experiencia utilizando Git y GitHub con una iamgen de mi historial.
@@ -29,7 +29,7 @@ Se adoptará el estándar de **Conventional Commits** para registrar de forma de
 | Sección | Qué incluir | Qué evitar | Formato visual | Enlaces externos |
 | :--- | :--- | :--- | :--- | :--- |
 | **Presentación** | Nombre, un saludo amigable y una frase personal. | Descripciones demasiado largas o información que no esté relacionada con el área profesional. | Texto destacado. | Ninguno. |
-| **Sobre mí** | Principales intereses en programación, temas que me gusta aprender y metas actuales. | Información personal que no tenga relación con el área tecnológica. | Lista con viñetas para que sea más fácil de leer con emojis decorativos. | Ninguno. |
+| **Sobre mí** | Carrera que estudio, mis principales intereses en programación, temas que me gusta aprender y metas actuales. | Información personal que no tenga relación con el área tecnológica. | Lista con viñetas para que sea más fácil de leer con emojis decorativos. | Ninguno. |
 | **Habilidades** | Lenguajes de programación, frameworks, bases de datos y herramientas de desarrollo. | Tecnologías que apenas conozco o que no he utilizado lo suficiente. | Insignias (*badges*) con los logos oficiales de cada tecnología. | Ninguno. |
 | **Proyecto** | Nombre, descripción breve, tecnologías utilizadas y enlaces al repositorio y a la página web. | Descripciones demasiado largas o información innecesaria. | Imagen o captura del proyecto y lista de tecnologías. | Enlace al repositorio y a la demostración del proyecto. |
 | **Experiencia y Actividad en GitHub** | Breve descripción de mi experiencia utilizando Git y GitHub, junto con los repositorios en los que he trabajado y los proyectos académicos en los que he colaborado. | Descripciones demasiado largas o proyectos en los que no haya participado. | Imagen del dashboard de GitHub y lista de repositorios organizados por área, con una breve descripción de cada uno. | Ninguno. |
