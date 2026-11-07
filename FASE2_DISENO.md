@@ -15,12 +15,12 @@ Para que el perfil sea atractivo, fácil de entender y no tenga demasiada inform
 
 ## 2. Estrategia de Commits
 
-Se utilizará el estándar de **Conventional Commits** para mantener un historial ordenado y dejar claro qué cambios se realizan en el perfil:
+Se adoptará el estándar de **Conventional Commits** para registrar de forma descriptiva y ordenada la evolución del proyecto y del perfil:
 
-- `docs:` Cambios o actualizaciones en la documentación del perfil (ej. `docs: agrega sección sobre mí`).
-- `feat:` Agregar nuevas funciones, elementos visuales o secciones (ej. `feat: agrega sección de proyectos destacados`).
-- `fix:` Corregir errores de formato, enlaces que no funcionan o problemas en el código Markdown (ej. `fix: corrige sintaxis de imagen en ficha de proyecto`).
-- `style:` Realizar cambios en la apariencia del perfil sin modificar su estructura ni su información (ej. `style: reorganiza alineación de badges`).
+- `docs:` Cambios, adiciones o actualizaciones en el contenido del perfil y la documentación (ej. `docs: agrega sección sobre mí` o `docs: vincula imagen en experiencia`).
+- `feat:` Incorporación de nuevas secciones o bloques visuales principales (ej. `feat: agrega sección de proyectos destacados`).
+- `fix:` Corrección de errores ortográficos, sintaxis Markdown o enlaces rotos (ej. `fix: corrige sintaxis de enlaces en la sección de contacto`).
+- `style:` Ajustes visuales en el formato o maquetación del contenido sin alterar la información (ej. `style: organiza tabla de habilidades e incluye badges`).
 
 ---
 
