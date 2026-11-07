@@ -49,7 +49,7 @@
 |---|---|---|
 | **RF-01** | Presentación | Debe tener una sección de «Sobre mí» donde aparezcan el nombre, la profesión o rol principal (por ejemplo, Desarrollador Web o de Software) y una pequeña descripción personal. |
 | **RF-02** | Habilidades técnicas | Debe mostrar los lenguajes de programación, tecnologías y herramientas que conoce, utilizando íconos o insignias para identificarlos fácilmente. |
-| **RF-03** | Proyectos destacados | Debe mostrar al menos 2 o 3 proyectos importantes. Cada uno debe incluir nombre, breve descripción, tecnologías utilizadas, enlace al repositorio de GitHub y enlace para ver el proyecto funcionando. |
+| **RF-03** | Proyecto destacado | Debe mostrar al menos 1 proyecto importante. Debe incluir nombre, breve descripción, tecnologías utilizadas, enlace al repositorio de GitHub y enlace para ver el proyecto funcionando. |
 | **RF-04** | Contacto | Debe incluir enlaces fáciles de encontrar para contactar al desarrollador, como su correo electrónico, LinkedIn y GitHub. |
 | **RF-05** | Navegación | Debe contar con un menú sencillo que permita moverse fácilmente entre las diferentes secciones del perfil, como Sobre mí, Proyectos, Habilidades y Contacto. |
 
